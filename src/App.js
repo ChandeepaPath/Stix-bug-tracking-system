@@ -1,9 +1,9 @@
 import React from 'react';
-import LoginForm from './Components/LoginForm/LoginForm';
+import Auth from './Container/Auth.js';
 
 function App() {
   return (
-    <LoginForm/>
+    <Auth/>
   );
 }
 
