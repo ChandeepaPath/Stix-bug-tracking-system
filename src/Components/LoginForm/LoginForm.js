@@ -1,5 +1,6 @@
 import React,{Component} from 'react';
-import LoginForm from './LoginForm.css'
+
+import  './LoginForm.css'
 
 
 
@@ -30,6 +31,7 @@ class Login extends Component{
                                 <a className="ForgetPwd" value="Login">Forget Password ?</a>
                             </div>
                         </form>
+                       
                     </div>
                 </div>
             </div>
