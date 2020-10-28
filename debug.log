@@ -1,0 +1,19 @@
+[1014/102541.851:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1026/135932.600:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1027/022251.245:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[1027/022251.229:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[1027/022251.245:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[1027/022251.245:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[1027/022251.901:ERROR:exception_snapshot_win.cc(99)] thread ID 13812 not found in process
+[1027/022251.885:ERROR:exception_snapshot_win.cc(99)] thread ID 19680 not found in process
+[1027/022251.885:ERROR:exception_snapshot_win.cc(99)] thread ID 9264 not found in process
+[1027/022251.245:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[1027/022251.901:ERROR:exception_snapshot_win.cc(99)] thread ID 12348 not found in process
+[1027/022251.901:ERROR:exception_snapshot_win.cc(99)] thread ID 13348 not found in process
+[1027/114718.316:ERROR:crash_report_database_win.cc(498)] failed to stat report
+[1027/114718.911:ERROR:crash_report_database_win.cc(498)] failed to stat report
+[1027/115718.321:ERROR:crash_report_database_win.cc(498)] failed to stat report
+[1027/115718.321:ERROR:crash_report_database_win.cc(498)] failed to stat report
+[1027/115718.321:ERROR:filesystem_win.cc(116)] GetFileAttributes C:\Users\User\AppData\Local\Google\Chrome\User Data\Crashpad\reports\5a0224da-8a51-47b9-bb97-2372d59397d7.dmp: The system cannot find the file specified. (0x2)
+[1027/115718.321:ERROR:filesystem_win.cc(116)] GetFileAttributes C:\Users\User\AppData\Local\Google\Chrome\User Data\Crashpad\reports\03e6cb25-5446-4f01-acc3-075bf68cb7fb.dmp: The system cannot find the file specified. (0x2)
+[1027/115718.321:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)

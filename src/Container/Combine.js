@@ -5,6 +5,7 @@ import Error from '../Components/Common/Error';
 import Buttons from './Buttons';
 import DashboardBCL from './DashboardBCL'; 
 import { Button, Navbar } from 'react-bootstrap';
+import RGateway from '../Components/Report/RGateway'
 
 function Combine(){
    
@@ -16,12 +17,13 @@ function Combine(){
                  </Navbar>
  
           <Router>
-         
+        
            <Switch>
                  
                  <Route exact path="/DashboardBCL" component={DashboardBCL}  />
                  
                   <Route path="/Components/LoginForm/LoginForm" component={LoginForm}  /> 
+                  <Route path="/Components/Report/RGateway" component={RGateway}  /> 
                 
                    <Route component={Error}  />
                  
