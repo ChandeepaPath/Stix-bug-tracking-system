@@ -19,7 +19,7 @@ function Buttons(){
            </Link>
            <Link to="">
            <Button className="btn btn-light" >BSP</Button>
-           <Link to="">
+           <Link to="../Components/Report/RGateway">
            <Button className="btn btn-light" >Reporting</Button>
            </Link>
            </Link>

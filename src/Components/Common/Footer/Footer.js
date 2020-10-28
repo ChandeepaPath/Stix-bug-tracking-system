@@ -1,13 +1,13 @@
-import React, { Component } from 'react';
-import { Navbar } from 'react-bootstrap';
-import { NavLink} from 'react-bootstrap';
+import React from 'react';
+// import { Navbar } from 'react-bootstrap';
+// import { NavLink} from 'react-bootstrap';
 
 
 function Footer(){
     return (
         <div className="mt-4">
         <div className="main-footer bg-dark pb-1 pt-4">
-            <div className="footer-middle">
+            <div className="footer-bottom">
             <div className="container">
                 <div className="row">
                         {/* <Navbar>
