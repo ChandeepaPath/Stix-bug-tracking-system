@@ -5,7 +5,7 @@ import Error from '../Components/Common/Error';
 import Buttons from './Buttons';
 import DashboardBCL from './DashboardBCL'; 
 import { Button, Navbar } from 'react-bootstrap';
-import RGateway from '../Components/Report/RGateway'
+import RGateway2 from '../Components/Report2/RGateway2'
 
 function Combine(){
    
@@ -23,7 +23,8 @@ function Combine(){
                  <Route exact path="/DashboardBCL" component={DashboardBCL}  />
                  
                   <Route path="/Components/LoginForm/LoginForm" component={LoginForm}  /> 
-                  <Route path="/Components/Report/RGateway" component={RGateway}  /> 
+                 
+                  <Route path="/Components/Report2/RGateway2" component={RGateway2}  /> 
                 
                    <Route component={Error}  />
                  

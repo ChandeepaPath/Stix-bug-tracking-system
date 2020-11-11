@@ -41,7 +41,7 @@ import Buttons from './Buttons'
               <Route component={Error}  />
             
           </Switch>
-   <div className="fixed-bottom">    
+   <div>    
    <Footer/>
   </div>
    </div>

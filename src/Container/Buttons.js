@@ -19,9 +19,9 @@ function Buttons(){
            </Link>
            <Link to="">
            <Button className="btn btn-light" >BSP</Button>
-           <Link to="../Components/Report/RGateway">
-           <Button className="btn btn-light" >Reporting</Button>
            </Link>
+           <Link to="../Components/Report2/RGateway2">
+           <Button className="btn btn-light" >Reporting</Button>
            </Link>
        </Router>
          </div>
