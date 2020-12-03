@@ -16,11 +16,11 @@ const [issues, setIssues] = useState({})
                 for(let obj of res.data ){
                   console.log(obj)
                     iss.push(parseInt(obj.NoIssues))
-                    id.push(parseInt(obj.pID))
-                    proj.push(parseInt(obj.Pname))
+                    id.push(obj.pID)
+                    proj.push(obj.Pname)
   
                 }
-                   console.log(result)
+                   console.log(iss)
             setIssues(
                 {
                     labels:proj,
